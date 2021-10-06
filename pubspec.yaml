@@ -47,6 +47,7 @@ flutter:
 
   assets:
   - images/
+  - .env
 
   fonts:
   - family: Spartan MB

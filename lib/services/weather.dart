@@ -1,7 +1,7 @@
 import 'package:mausam/services/location.dart';
 import 'package:mausam/services/networking.dart';
 
-const apiKey = 'e9d51e14ee40cf033bfb34a5a156760c';
+const apiKey = 'put your api key here';
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
 
 class WeatherModel {
